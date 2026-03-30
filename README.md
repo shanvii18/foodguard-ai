@@ -45,16 +45,20 @@ It enables faster and more consistent evaluation of food safety by combining mac
 ## Screenshots
 
 ### Dashboard Overview
-![Dashboard](./dashboard.png)
+![dashboard](https://github.com/user-attachments/assets/013ca8b1-dfa1-4b4f-a95d-8aab3bc865a4)
+
 
 ### Input Interface
-![Input](./input.png)
+![user input](https://github.com/user-attachments/assets/8a54a869-bafd-49dd-9f72-1ce1f92469ac)
+
 
 ### Risk Analysis Output
-![Analytics](./detection.png)
+![detection](https://github.com/user-attachments/assets/d2f93e63-7ea8-4ea7-a67c-fcef20d6b906)
+
 
 ###  Graphical Analysis & Insights
-![Output](./graphs.png)
+![graphs](https://github.com/user-attachments/assets/45c316cb-d625-4eb3-9c7a-f28f1ae6237d)
+
 
 # Future Scope
 Integration with larger and more diverse datasets
