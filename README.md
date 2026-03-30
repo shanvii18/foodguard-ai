@@ -31,6 +31,8 @@ The model predicts:
 Presence of adulteration
 Severity level (Low / Medium / High)
 Results are presented through an interactive analytics dashboard
+Model: Random Forest Classifier
+Task: Classification + Severity scoring
 
 ## Use Case
 
@@ -59,6 +61,13 @@ It enables faster and more consistent evaluation of food safety by combining mac
 ###  Graphical Analysis & Insights
 ![graphs](https://github.com/user-attachments/assets/45c316cb-d625-4eb3-9c7a-f28f1ae6237d)
 
+
+## How to Run
+
+1. Clone the repository  
+2. Install dependencies: pip install -r requirements.txt  
+3. Run: streamlit run app.py
+   
 
 ## Future Scope
 Integration with larger and more diverse datasets
