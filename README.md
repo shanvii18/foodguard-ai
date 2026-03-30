@@ -42,6 +42,20 @@ Food safety inspectors
 
 It enables faster and more consistent evaluation of food safety by combining machine learning with structured analysis.
 
+## Screenshots
+
+### Dashboard Overview
+![Dashboard](./dashboard.png)
+
+### Input Interface
+![Input](./input.png)
+
+### Risk Analysis Output
+![Analytics](./detection.png)
+
+###  Graphical Analysis & Insights
+![Output](./graphs.png)
+
 # Future Scope
 Integration with larger and more diverse datasets
 Incorporation of explainable AI for model transparency
